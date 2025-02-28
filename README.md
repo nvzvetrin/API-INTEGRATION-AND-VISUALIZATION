@@ -1,6 +1,13 @@
 ![image](https://github.com/user-attachments/assets/a4c9e754-9072-4cca-b3da-635aac305a46)
 
 Welcome to the **Codsoft Internship Python Programmer**!🌟
+## Developer Information
+**Name:** Balaji Gopal Naidu  
+**Company:** CODTECH IT SOLUTIONS  
+**ID:** CT08WRK 
+**Domain:** PYTHON PROGRAMMING  
+**Duration:** Feb 25 to March 25 
+
 Here, you'll find a showcase of my journey and achievements during the internship, featuring hands-on projects that delve into various facets of Python Language. Dive into the realm of predictive analytics and classification with the following projects:
 
 ## Projects
